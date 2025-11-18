@@ -14,8 +14,7 @@ Note: This does not work on ComfyUI Cloud because custom nodes cannot be install
 <img src="./plots/ComfyUI_00223_.png" height="300"> ,
 <img src="./plots/ComfyUI_00224_.png" height="300"> , 
 <img src="./plots/ComfyUI_00235_.png" height="300"> ,
-<img src="./plots/ComfyUI_00314_.png" height="300">
-
+<img src="./plots/ComfyUI_00314_.png" height="300"> ,
 <img src="./plots/ComfyUI_temp_tqgkt_00012_.png" height="300"> , 
 <img src="./plots/ComfyUI_temp_sdubv_00012_.png" height="300"> ,
 <img src="./plots/ComfyUI_temp_kxopq_00024_.png" height="300"> , 
