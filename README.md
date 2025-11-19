@@ -21,6 +21,22 @@ Note: This does not work on ComfyUI Cloud because custom nodes cannot be install
 <img src="./plots/ComfyUI_temp_kxopq_00024_.png" height="300"> , 
 <img src="./plots/ComfyUI_temp_klssc_00075_.png" height="300">
 
-## Example of workflow
+## Example of workflow (source code)
 
 ![Workflow Example](./screenshots/workflow-example.png)
+
+## A Story of Design
+
+When creating the Evolution of the Residual Stream plot, I began with simple experiments and iterated heavily. Thanks to ComfyUI, every step of that design process was automatically preserved. (WOW!~)
+
+Here, I'll share with you how the final visual concept gradually took shape.
+
+<img src="./stories/making/ComfyUI_00066_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00067_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00068_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00069_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00070_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00072_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00073_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00074_.png" height="100"> ->
+<img src="./stories/making/ComfyUI_00075_.png" height="100">
