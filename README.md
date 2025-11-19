@@ -11,6 +11,7 @@ Note: This does not work on ComfyUI Cloud because custom nodes cannot be install
 ## Example of plots
 
 <!-- <img src="./plots/ComfyUI_00129_.png" height="300"> , -->
+<img src="./plots/ComfyUI_00117_.png" height="300"> ,
 <img src="./plots/ComfyUI_00223_.png" height="300"> ,
 <img src="./plots/ComfyUI_00224_.png" height="300"> , 
 <img src="./plots/ComfyUI_00235_.png" height="300"> ,
