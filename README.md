@@ -20,7 +20,8 @@ Note: This does not work on ComfyUI Cloud because custom nodes cannot be install
 <img src="./plots/ComfyUI_temp_sdubv_00012_.png" height="300"> ,
 <img src="./plots/ComfyUI_temp_kxopq_00024_.png" height="300"> , 
 <img src="./plots/ComfyUI_temp_klssc_00075_.png" height="300"> ,
-<img src="./plots/ComfyUI_00332_.png" height="300">
+<img src="./plots/ComfyUI_00332_.png" height="300"> ,
+<img src="./plots/ComfyUI_00474_.png" height="300">
 
 ## Example of workflow (source code)
 
